@@ -1,0 +1,7 @@
+{
+  "CUSTOMCONNSTR_MONGOLAB_URI": "mongodb://mirror:xea7919c@ds040089.mlab.com:40089/magicmirror",
+  "OXFORD_SECRET_KEY": "4bccd1fccf01463f9046e7aafab9f05e",
+  "OXFORD_EMOTION_SECRET_KEY":"df76c3deae5d4aacb11bf3dfdcf5542c",
+  "BING_API_KEY": "b12404ee32b944f9b4e803b6fc4dade3",
+  "SESSION_SECRET_STRING": "v8OW7HEF8W7HF98AWH7DF9A87SDYFsdfasdf"
+}
